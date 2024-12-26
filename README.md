@@ -1,4 +1,3 @@
-
 # 🌡️ Kelvin Weather Converter
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?logo=javascript&logoColor=white&style=flat)
@@ -70,10 +69,6 @@ The temperature is 33 degrees Newton.
 - Using `Math.floor()` to round down numbers.
 - Implementing string interpolation for dynamic outputs.
 
-## 📸 Screenshots
-
-![Example Output](https://via.placeholder.com/800x400?text=Example+Program+Output)
-
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -84,9 +79,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 💌 Contact
 
-- **Author:** Your Name  
-- **Email:** your-email@example.com  
-- **GitHub:** [@your-username](https://github.com/your-username)  
+- **Author:** daniel
+- **Email:** turcudanieli22@gmail.com
 
 ---
 
